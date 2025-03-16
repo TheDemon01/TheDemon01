@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDemon01
-- 👀 I’m interested in Learning Coding and New Things 
-- 🌱 I’m currently learning HTML 
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML , CSS and Java 
 - 📫 How to reach me Usanskar38@gmail.com
 
 <!---
