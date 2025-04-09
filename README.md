@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheDemon01
+- 👋 Hi, I’m Sanskar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML , CSS and Java 
+- 🌱 I’m currently learning Full Stack WEb DEv
 - 📫 How to reach me Usanskar38@gmail.com
 
 <!---
