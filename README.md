@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanskar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack WEb DEv
+- 🌱 I’m currently learning Full Stack Web Dev
 - 📫 How to reach me Usanskar38@gmail.com
 
 <!---
